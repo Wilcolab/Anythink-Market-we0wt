@@ -6,6 +6,12 @@ The Anythink Frontend is an SPA written with [React](https://reactjs.org/) and [
 
 Make sure your server is up and running to serve requests.
 
+How to setup the enviroment with docker?
+You have to go to github codeSpace and run in the terminal embedded and run the next command:
+`$ docker-compose up`
+this command will setup the backend and frontend.
+That's it! Everything is ready to start coding.
+
 ## Pages overview
 
 - Home page (URL: /#/ )
